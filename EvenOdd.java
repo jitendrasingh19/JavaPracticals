@@ -1,3 +1,4 @@
+/odd even program
 import java.util.Scanner;  
 class EvenOdd  
 {  
